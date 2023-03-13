@@ -1,0 +1,9 @@
+{
+	"name": "gitprodadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ed5a80b-ab13-49f5-b7b4-382001af4b7f",
+		"tenantId": "2d988898-be94-47f8-a3b8-84acd40b556a"
+	}
+}
